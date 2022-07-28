@@ -1,2 +1,2 @@
 Hello world!
-git is confusing
+Replaced
